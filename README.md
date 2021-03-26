@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @08-ash
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning c and c++ apart from javascript.
